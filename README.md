@@ -1,4 +1,4 @@
-# Prework - *Miles Thomas*
+# Prework - *Color Changer*
 
 Submitted by: **Miles Thomas**
 
