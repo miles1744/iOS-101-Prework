@@ -19,7 +19,17 @@ The following **required** functionality is completed:
 
 
 ## App Brainstorming (Step 4)
-*
+* Youtube
+  - Interactive video cards and high quality recomendation algorithm
+  - Nice UI/UX design to make the user feel comfortable
+ 
+* LinkedIn
+  - Informative notifacation system
+  - New and interesting feed content
+
+* Discord
+  - Efficent messaging and smooth community building tools
+  - Lots of creativity in user profiles
 
 ## Notes
 
